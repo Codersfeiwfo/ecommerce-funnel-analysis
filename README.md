@@ -1,6 +1,6 @@
 # E-Commerce Funnel Analysis — SQL (Google BigQuery)
 
-SQL project for analyzing an e-commerce sales funnel using :contentReference[oaicite:1]{index=1} and the public :contentReference[oaicite:2]{index=2}.
+SQL project for analyzing an e-commerce sales funnel using BigQuery
 
 ## Project Goals
 - Analyze the sales funnel: from first visit to purchase
@@ -85,7 +85,7 @@ Measured:
 ---
 
 ## How to Run
-1. Open [Google BigQuery Console](https://console.cloud.google.com/bigquery?utm_source=chatgpt.com)
+1. Open [Google BigQuery Console](https://console.cloud.google.com/bigquery)
 2. Copy queries from `ecommerce_analysis.sql`
 3. Run them directly
 4. Dataset connects automatically (`bigquery-public-data.thelook_ecommerce`)
